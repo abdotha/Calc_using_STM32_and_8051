@@ -1,0 +1,4 @@
+Error_handling.c:8:15:divByZeroError	16	static
+Error_handling.c:16:15:invldOpr	16	static
+Error_handling.c:26:15:invldOpration	16	static
+Error_handling.c:36:6:DELAY	24	static
